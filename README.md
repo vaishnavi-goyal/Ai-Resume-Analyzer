@@ -22,7 +22,8 @@ AI-based Resume Analyzer built using Python and Streamlit that analyzes resumes,
 - Cosine Similarity
 
 # Project Structure
-ai-resume-analyzer/
+ai-resume-analyzer
+
 ├── app.py  
 ├── README.md  
 ├── requirements.txt  
